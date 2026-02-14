@@ -6,6 +6,7 @@ target/
 .settings/
 allure-results/
 allure-report/
+.allure/
 test-output/
 *.log
 .DS_Store
