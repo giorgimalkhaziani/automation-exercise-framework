@@ -190,10 +190,3 @@ This will automatically open the report in your default browser.
 
 ### Issue: Allure report not generating
 **Solution**: Make sure Allure is installed and available in your PATH. Run `allure --version` to verify.
-
-## Contact
-For any questions or issues, please contact:
-- **Giorgi Malkhaziani** - giorgi.malkhaziani@example.com
-
-## License
-This project is created for educational purposes as part of the Test Automation course.
