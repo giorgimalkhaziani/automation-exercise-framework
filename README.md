@@ -19,11 +19,11 @@ This is an end-to-end test automation framework for the [Automation Exercise](ht
 
 ### UI Tests (10 test cases)
 | Test Case | Description |
-|-----------|-------------|-------|
+|-----------|-------------|
 | TC-1 | Register User |
-| TC-2 | Login User with correct credentials | 
-| TC-3 | Login User with incorrect credentials | 
-| TC-4 | Logout User | 
+| TC-2 | Login User with correct credentials |
+| TC-3 | Login User with incorrect credentials |
+| TC-4 | Logout User |
 | TC-5 | Register User with existing email |
 | TC-6 | Contact Us Form |
 | TC-7 | Verify All Products |
@@ -33,7 +33,7 @@ This is an end-to-end test automation framework for the [Automation Exercise](ht
 
 ### API Tests (10 test cases)
 | Test Case | Description |
-|-----------|-------------|-------|
+|-----------|-------------|
 | API-1 | Get All Products List |
 | API-2 | POST To All Products List |
 | API-3 | Get All Brands List |
