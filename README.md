@@ -18,32 +18,32 @@ This is an end-to-end test automation framework for the [Automation Exercise](ht
 ## Test Coverage
 
 ### UI Tests (10 test cases)
-| Test Case | Description | Owner |
+| Test Case | Description |
 |-----------|-------------|-------|
-| TC-1 | Register User | Giorgi Malkhaziani |
-| TC-2 | Login User with correct credentials | Giorgi Malkhaziani |
-| TC-3 | Login User with incorrect credentials | Giorgi Malkhaziani |
-| TC-4 | Logout User | Giorgi Malkhaziani |
-| TC-5 | Register User with existing email | Giorgi Malkhaziani |
-| TC-6 | Contact Us Form | Giorgi Malkhaziani |
-| TC-7 | Verify All Products | Giorgi Malkhaziani |
-| TC-8 | Search Product | Giorgi Malkhaziani |
-| TC-9 | Verify Product Details | Giorgi Malkhaziani |
-| TC-10 | Add Products in Cart | Giorgi Malkhaziani |
+| TC-1 | Register User |
+| TC-2 | Login User with correct credentials | 
+| TC-3 | Login User with incorrect credentials | 
+| TC-4 | Logout User | 
+| TC-5 | Register User with existing email |
+| TC-6 | Contact Us Form |
+| TC-7 | Verify All Products |
+| TC-8 | Search Product |
+| TC-9 | Verify Product Details |
+| TC-10 | Add Products in Cart |
 
 ### API Tests (10 test cases)
-| Test Case | Description | Owner |
+| Test Case | Description |
 |-----------|-------------|-------|
-| API-1 | Get All Products List | Giorgi Malkhaziani |
-| API-2 | POST To All Products List | Giorgi Malkhaziani |
-| API-3 | Get All Brands List | Giorgi Malkhaziani |
-| API-4 | PUT To All Brands List | Giorgi Malkhaziani |
-| API-5 | POST To Search Product | Giorgi Malkhaziani |
-| API-6 | POST To Search Product without parameter | Giorgi Malkhaziani |
-| API-7 | POST To Verify Login with valid details | Giorgi Malkhaziani |
-| API-8 | POST To Verify Login without email | Giorgi Malkhaziani |
-| API-9 | DELETE To Verify Login | Giorgi Malkhaziani |
-| API-10 | POST To Create User Account | Giorgi Malkhaziani |
+| API-1 | Get All Products List |
+| API-2 | POST To All Products List |
+| API-3 | Get All Brands List |
+| API-4 | PUT To All Brands List |
+| API-5 | POST To Search Product |
+| API-6 | POST To Search Product without parameter |
+| API-7 | POST To Verify Login with valid details |
+| API-8 | POST To Verify Login without email |
+| API-9 | DELETE To Verify Login |
+| API-10 | POST To Create User Account |
 
 ## Project Structure
 ```
